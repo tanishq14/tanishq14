@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Tanishq Shelke 👋
 
-<!--
-**tanishq14/tanishq14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am a solution-oriented AI Software Engineer driven to transform complex datasets into scalable, automated solutions that optimize operational fulfillment.
 
-Here are some ideas to get you started:
+* I possess technical proficiency in Python (FastAPI) and React, alongside experience architecting GenAI-powered web applications with frontend frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I have a proven ability to collaborate within cross-functional teams, manage software traceability in regulated environments, and design mathematically validated data pipelines for automated decisioning systems.
+
+I’m currently working with Python, React, and Gen AI & ML tools like LangChain and HuggingFace.
+
+📫 How to reach me: [tanishq63@gmail.com](mailto:tanishq63@gmail.com)
+
+⚡ I hold a national patent for an automated crop health surveillance device!
+
+👔 [LinkedIn](https://www.linkedin.com/in/tanishqrahuls/)
